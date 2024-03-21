@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Melted Monster";
+    src: url(./melted_monster.ttf);
+  }
+
+  body {
+    /* define the width of the body: */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    background-image: url(../img/background.jpg);
+    background-size: 100%;
+  }
+
+  main {
+    background-color: beige;
+    min-height: 800px;
+    
+    max-width: 1000px;
+    min-width: 600px;px);
+    margin: 30px;
+    padding: 30px;
+  }
+
+  h1 {
+    font-family: 'Melted Monster', sans-serif;
+    font-size: 80px;
+    text-align: center;
+  }
+
+  h2 {
+    font-family: sans-serif;
+    text-align: center;
+  }
