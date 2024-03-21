@@ -1,10 +1,16 @@
-body {background-color: background-image: linear-gradient(to bottom right, #28190E, #513C2C, #15B097);}
+body {background-image:linear-gradient(to bottom right, #71F79F, #3DD6D0, #15B097);}
 
 h1 {font-size: 100px;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 p {font-size: 30px;
+    width: 70%;
    font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 h2 {font-size: 75px;
+    font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;}   
+
+img {border-radius: 8px;
+     width: 600px;}
