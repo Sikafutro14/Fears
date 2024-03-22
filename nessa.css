@@ -1,0 +1,74 @@
+@font-face {
+    font-family: fantasy;
+    src: url(../Fears/man-jump-across-text-failure-260nw-654251056.webp);
+    align-content: center;
+  }
+
+
+
+
+body {
+    /* define the width of the body: */
+   
+    background-image:url(../Fears/sky.webp);
+    background-size: 100%;
+  }
+  .container {
+    max-width: 800px; /* Limits the container's width for readability */
+    margin: 0 auto; /* Centers the container */
+    padding: 20px; /* Adds some padding inside the container */
+    
+}
+  body,
+  h1,
+  h2,
+  p,
+  ul {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Sets a nice, readable font */
+    line-height: 1.4;
+  }
+  body a {
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  
+h1{
+    text-decoration-color: aquamarine 
+    
+
+  }
+
+  h2 {
+    font-family: 'Melted Monster', sans-serif;
+  }
+  
+  
+
+  header {
+    
+    background-color: #404040; /* Dark background for the header */
+    color: #fff; /* White text for contrast */
+    padding: 20px 0; /* Padding above and below the text */
+    text-align: center; /* Centers the header text */
+    border-radius: 15px;
+}
+
+.reason {
+    background-color: #f0f0f0; /* Light grey background for reasons */
+    margin: 20px 0; /* Adds margin above and below each section */
+    padding: 20px; /* Padding inside each section */
+    border-left: 5px solid #404040; /* Adds a dark left border for style */
+    border-radius: 15px;
+}
+
+.reason2 {
+    background-color: #f0f0f0; /* Light grey background for reasons */
+    margin: 20px 0; /* Adds margin above and below each section */
+    padding: 20px; /* Padding inside each section */
+    border-left: 5px solid #404040; /* Adds a dark left border for style */
+    border-radius: 25px 15px 75px 15px;
+    
+  }
